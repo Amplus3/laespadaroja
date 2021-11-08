@@ -1,0 +1,13 @@
+C:\Users\Alumno\source\repos\Clase\Clase\bin\Debug\netcoreapp3.1\Clase.exe
+C:\Users\Alumno\source\repos\Clase\Clase\bin\Debug\netcoreapp3.1\Clase.deps.json
+C:\Users\Alumno\source\repos\Clase\Clase\bin\Debug\netcoreapp3.1\Clase.runtimeconfig.json
+C:\Users\Alumno\source\repos\Clase\Clase\bin\Debug\netcoreapp3.1\Clase.runtimeconfig.dev.json
+C:\Users\Alumno\source\repos\Clase\Clase\bin\Debug\netcoreapp3.1\Clase.dll
+C:\Users\Alumno\source\repos\Clase\Clase\bin\Debug\netcoreapp3.1\Clase.pdb
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.dll
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.pdb
+C:\Users\Alumno\source\repos\Clase\Clase\obj\Debug\netcoreapp3.1\Clase.genruntimeconfig.cache
